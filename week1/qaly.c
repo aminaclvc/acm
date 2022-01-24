@@ -4,6 +4,7 @@
 * CPU Time limit: 1 sec
 * Memory limit: 1024 MB
 * Difficulty: 1.3
+* Language: C
 */
 
 #include <stdio.h>
