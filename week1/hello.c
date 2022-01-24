@@ -3,7 +3,7 @@
 * Problem ID: hello
 * CPU Time limit: 5 sec
 * Memory limit: 1024 MB
-* Difficulty: 6.5
+* Difficulty: 1.1
 * Language: C
 */
 
