@@ -1,6 +1,3 @@
-#include <iostream>
-#include <string>
-#include <vector>
 /* Amina Colovic
 * Kattis Problem: Torn To Pieces
 * Problem ID: torn2pieces
@@ -10,6 +7,9 @@
 * Language: C++
 */
 
+#include <iostream>
+#include <string>
+#include <vector>
 #include <sstream>
 #include <map>
 #include <queue>
