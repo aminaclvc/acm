@@ -1,3 +1,12 @@
+/* Amina Colovic
+* Kattis Problem: Ants
+* Problem ID: ants
+* CPU Time limit: 1 sec
+* Memory limit: 1024 MB
+* Difficulty: 2.3
+* Language: C++
+*/
+
 #include <iostream>
 #include <vector>
 #include <climits>
