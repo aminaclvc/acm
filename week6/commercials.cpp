@@ -1,5 +1,5 @@
 /* Amina Colovic
-* Kattis Problem: Closest Pair (Uniform)
+* Kattis Problem: Radio Commercials
 * Problem ID: commercials
 * CPU Time limit: 1 sec
 * Memory limit: 1024 MB
