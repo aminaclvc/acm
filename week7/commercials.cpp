@@ -1,3 +1,12 @@
+/* Amina Colovic
+* Kattis Problem: Radio Commercials
+* Problem ID: commercials
+* CPU Time limit: 1 sec
+* Memory limit: 1024 MB
+* Difficulty: 2.1
+* Language: C++
+*/
+
 #include <iostream>
 
 int main() {
