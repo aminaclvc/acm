@@ -1,3 +1,12 @@
+/* Amina Colovic
+* Kattis Problem: Marko
+* Problem ID: marko
+* CPU Time limit: 1 sec
+* Memory limit: 1024 MB
+* Difficulty: 1.9
+* Language: C++
+*/
+
 #include <iostream>
 #include <unordered_map>
 #include <vector>
