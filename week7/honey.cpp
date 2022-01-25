@@ -1,3 +1,12 @@
+/* Amina Colovic
+* Kattis Problem: Honeycomb Walk
+* Problem ID: honey
+* CPU Time limit: 1 sec
+* Memory limit: 1024 MB
+* Difficulty: 2.5
+* Language: C++
+*/
+
 #include <iostream>
 
 int depth = 16;
