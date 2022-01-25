@@ -1,3 +1,12 @@
+/* Amina Colovic
+* Kattis Problem: Kornislav
+* Problem ID: kornislav
+* CPU Time limit: 1 sec
+* Memory limit: 1024 MB
+* Difficulty: 1.4
+* Language: C++
+*/
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
