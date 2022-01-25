@@ -1,3 +1,12 @@
+/* Amina Colovic
+* Kattis Problem: Exact Change
+* Problem ID: exactchange2
+* CPU Time limit: 1 sec
+* Memory limit: 1024 MB
+* Difficulty: 4.6
+* Language: C++
+*/
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
