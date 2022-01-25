@@ -1,3 +1,12 @@
+/* Amina Colovic
+* Kattis Problem: Reseto
+* Problem ID: reseto
+* CPU Time limit: 1 sec
+* Memory limit: 1024 MB
+* Difficulty: 2.8
+* Language: C++
+*/
+
 #include <iostream>
 #include <vector>
 
