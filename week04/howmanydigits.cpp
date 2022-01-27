@@ -11,13 +11,10 @@
 #include <algorithm>
 #include <cmath>
 
-#define E 2.718281828459045235360287471352662497757247093699959574966967627724076630353
-#define PI 3.141592653589793238462643383279502884197169399375105820974944592307816406286
-
-int main(void){
+int main(void) {
   int n;
-  while(scanf("%d",&n) == 1){
-    printf("%d\n", n < 2 ? 1 : (int)ceil(log10(2*PI*n)/2+n*(log10(n/E))));
+  while (scanf("%d", &n) == 1) {
+    printf("%d\n", n < 2 ? 1 : (int)ceil(log10(2 * M_PI * n) / 2 + n * (log10(n / M_E))));
   }
   return 0;
 }
