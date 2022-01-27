@@ -38,7 +38,7 @@ int main(void) {
         }
 
         //Find area of polygon
-        // 1/2 * [ (x1y2 + x2y3 + ... + xn-1yn + xny1) – (x2y1 + x3y2 + ... + xnyn-1 + x1yn) ]
+        // 1/2 * [ (x1y2 + x2y3 + ... + xn-1yn + xny1) - (x2y1 + x3y2 + ... + xnyn-1 + x1yn) ]
         int sum = 0;
         for (int i = 0; i < numVertices - 1; i++) {
             sum += determinant(vertices[i], vertices[i + 1]);
